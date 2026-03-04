@@ -4,12 +4,10 @@
 
 
 ## 🎬 Demo
-![Hangman Game Demo]![Uploading demo2 (1)_new.gif…]()
+https://github.com/user-attachments/assets/e575d1c1-88d5-46c3-94e6-9f278bc8afd3
 
 
-## ✨ Features
-
-
+## Features✨
 - 🎲 **Random word generation** from a large English word list
 - ⌨️ **Dual input support** — click on-screen keyboard or type on your physical keyboard
 - 🖼️ **Animated Hangman figure** that draws progressively with each wrong guess
