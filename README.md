@@ -4,11 +4,7 @@
 
 
 🎬 Demo
-<!-- HOW TO ADD YOUR VIDEO:
-     1. Push your code to GitHub
-     2. Open README.md on GitHub and click the pencil (Edit) icon
-     3. Drag & drop your demo.mp4 file into the editor
-     4. GitHub will auto-generate a link — it will replace this comment automatically -->
+https://github.com/user-attachments/assets/730dda7b-b60a-48b8-b151-4446e071e04f
 
 ## ✨ Features
 
