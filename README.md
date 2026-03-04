@@ -3,10 +3,12 @@
 > A classic Hangman word-guessing game built with **React** + **TypeScript** + **Vite**
 
 
-🎬 Demo
-https://github.com/user-attachments/assets/730dda7b-b60a-48b8-b151-4446e071e04f
+## 🎬 Demo
+![Hangman Game Demo]![Uploading demo2 (1)_new.gif…]()
+
 
 ## ✨ Features
+
 
 - 🎲 **Random word generation** from a large English word list
 - ⌨️ **Dual input support** — click on-screen keyboard or type on your physical keyboard
